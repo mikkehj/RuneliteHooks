@@ -3,7 +3,7 @@
   "invokeMenuActionHookJunkValue": "-1044473179",
   "setXandYHook": "ie.sp",
   "setViewportWalkingFieldHook": "ie.bj",
-  "checkClickFieldHook": "ir.bh",
+  "checkClickFieldHook": "ie.bx",
   "setSelectedSpellWidgetHook": "ag.oz",
   "setSelectedSpellWidgetMultiplier": "-970338421",
   "setSelectedSpellChildIndexHook": "client.oc",
