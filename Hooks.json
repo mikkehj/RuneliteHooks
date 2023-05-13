@@ -1,9 +1,9 @@
 {
   "invokeMenuActionHook": "ar.ke",
   "invokeMenuActionHookJunkValue": "-1745540313",
-  "setXandYHook": "ie.bq",
-  "setViewportWalkingFieldHook": "ie.bj",
-  "checkClickFieldHook": "ie.bx",
+  "setXandYHook": "ie.xc",
+  "setViewportWalkingFieldHook": "ie.tn",
+  "checkClickFieldHook": "ie.db",
   "setSelectedSpellWidgetHook": "jg.ou",
   "setSelectedSpellWidgetMultiplier": "1511366623",
   "setSelectedSpellChildIndexHook": "client.oa",
