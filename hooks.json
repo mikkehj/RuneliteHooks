@@ -3,7 +3,7 @@
   "invokeMenuActionHookJunkValue": "1",
   "setXandYHook": "ih.om",
   "setViewportWalkingFieldHook": "ih.qa",
-  "checkClickFieldHook": "ih.bh",
+  "checkClickFieldHook": "ih.ne",
   "setSelectedSpellWidgetHook": "jg.ou",
   "setSelectedSpellWidgetMultiplier": "1511366623",
   "setSelectedSpellChildIndexHook": "client.oa",
