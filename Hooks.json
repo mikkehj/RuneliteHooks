@@ -3,22 +3,5 @@
   "invokeMenuActionHookJunkValue": "1",
   "setXandYHook": "ih.om",
   "setViewportWalkingFieldHook": "ih.bj",
-  "checkClickFieldHook": "ih.bh",
-  "setSelectedSpellWidgetHook": "jg.ou",
-  "setSelectedSpellWidgetMultiplier": "1511366623",
-  "setSelectedSpellChildIndexHook": "client.oa",
-  "setSelectedSpellChildIndexMultiplier": "-1204907975",
-  "setSelectedSpellItemIDHook": "client.op",
-  "setSelectedSpellItemIDMultiplier": "35668549",
-  "getNpcCompositionOverheadIcon": "hs.ba",
-  "menuEntryIndexFieldHook": "rl1.ky",
-  "menuEntryIdentifiersArrayFieldHook": "client.nq",
-  "menuEntryItemIdsArrayFieldHook": "client.oi",
-  "menuEntryOptionsArrayFieldHook": "client.og",
-  "menuEntryParam0ArrayFieldHook": "client.nk",
-  "menuEntryParam1ArrayFieldHook": "client.ni",
-  "menuEntryTargetsArrayFieldHook": "client.ok",
-  "menuEntryTypesArrayFieldHook": "client.nh",
-  "getActorAnimationIdFieldHook": "dq.cf",
-  "getActorAnimationIdMultiplier": "-2121799935"
+  "checkClickFieldHook": "ih.bh"
 }
