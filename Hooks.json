@@ -2,7 +2,7 @@
   "invokeMenuActionHook": "qy.ls",
   "invokeMenuActionHookJunkValue": "1",
   "setXandYHook": "ih.om",
-  "setViewportWalkingFieldHook": "ih.gb",
+  "setViewportWalkingFieldHook": "ih.qa",
   "checkClickFieldHook": "ih.fd",
   "setSelectedSpellWidgetHook": "jg.ou",
   "setSelectedSpellWidgetMultiplier": "1511366623",
