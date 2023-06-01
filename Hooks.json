@@ -2,7 +2,7 @@
   "invokeMenuActionHook": "kq.kj",
   "invokeMenuActionHookJunkValue": "1",
   "setXandYHook": "iz.vh",
-  "setViewportWalkingFieldHook": "iz.fh",
+  "setViewportWalkingFieldHook": "iz.bx",
   "checkClickFieldHook": "iz.bg",
   "setSelectedSpellWidgetHook": "ck.oy",
   "setSelectedSpellWidgetMultiplier": "-2087607715",
