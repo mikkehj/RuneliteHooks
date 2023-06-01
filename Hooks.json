@@ -2,6 +2,6 @@
   "invokeMenuActionHook": "qy.ls",
   "invokeMenuActionHookJunkValue": "1",
   "setXandYHook": "ih.om",
-  "setViewportWalkingFieldHook": "ih.bz",
+  "setViewportWalkingFieldHook": "ih.bs",
   "checkClickFieldHook": "ih.bh"
 }
