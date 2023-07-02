@@ -1,7 +1,7 @@
 {
   "invokeMenuActionHook": "kq.kj",
   "invokeMenuActionHookJunkValue": "1",
-  "setXandYHook": "iz.be",
+  "setXandYHook": "iz.fo",
   "setViewportWalkingFieldHook": "iz.bx",
   "setSelectedSceneTileX": "iz.bn",
   "setSelectedSceneTileY": "iz.bb"
