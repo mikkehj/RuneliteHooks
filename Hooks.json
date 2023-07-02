@@ -1,7 +1,7 @@
 {
   "invokeMenuActionHook": "kq.kj",
   "invokeMenuActionHookJunkValue": "1",
-  "setXandYHook": "iz.vh",
+  "setXandYHook": "iz.bj",
   "setViewportWalkingFieldHook": "iz.bx",
   "checkClickFieldHook": "iz.bg",
   "setSelectedSpellWidgetHook": "ck.oy",
