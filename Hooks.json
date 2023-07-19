@@ -4,5 +4,5 @@
   "setXandYHook": "iz.bj",
   "setViewportWalkingFieldHook": "iw.ba",
   "setSelectedSceneTileX": "iw.ad",
-  "setSelectedSceneTileY": "iw.fg"
+  "setSelectedSceneTileY": "iw.bj"
 }
