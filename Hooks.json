@@ -1,8 +1,8 @@
 {
-  "invokeMenuActionHook": "gc.ky",
+  "invokeMenuActionHook": "ce.kc",
   "invokeMenuActionHookJunkValue": "1772621978",
   "setXandYHook": "iz.bj",
-  "setViewportWalkingFieldHook": "iw.ba",
-  "setSelectedSceneTileX": "iw.bj",
-  "setSelectedSceneTileY": "iw.bf"
+  "setViewportWalkingFieldHook": "iz.bw",
+  "setSelectedSceneTileX": "iz.bo",
+  "setSelectedSceneTileY": "iz.br"
 }
