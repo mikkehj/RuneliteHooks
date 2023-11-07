@@ -1,6 +1,6 @@
 {
   "invokeMenuActionHook": "px.kx",
-  "invokeMenuActionHookJunkValue": "33",
+  "invokeMenuActionHookJunkValue": "22",
   "setXandYHook": "iv.ba",
   "setViewportWalkingFieldHook": "kf.bj",
   "setSelectedSceneTileX": "kf.bp",
