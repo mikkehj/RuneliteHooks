@@ -2,7 +2,7 @@
   "invokeMenuActionHook": "px.kx",
   "invokeMenuActionHookJunkValue": "33",
   "setXandYHook": "iv.ba",
-  "setViewportWalkingFieldHook": "kf.fr",
+  "setViewportWalkingFieldHook": "kf.bj",
   "setSelectedSceneTileX": "kf.bp",
   "setSelectedSceneTileY": "kf.bw"
 }
