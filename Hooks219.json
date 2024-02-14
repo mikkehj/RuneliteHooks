@@ -1,0 +1,8 @@
+{
+  "invokeMenuActionHook": "ba.lf",
+  "invokeMenuActionHookJunkValue": "75",
+  "setXandYHook": "xx.xx",
+  "setViewportWalkingFieldHook": "kn.bf",
+  "setSelectedSceneTileX": "kn.bc",
+  "setSelectedSceneTileY": "kn.bx"
+}
