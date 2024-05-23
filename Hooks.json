@@ -1,6 +1,6 @@
 {
   "invokeMenuActionHook": "el.mb",
-  "invokeMenuActionHookJunkValue": "1",
+  "invokeMenuActionHookJunkValue": "3",
   "setXandYHook": "xx.xx",
   "setViewportWalkingFieldHook": "jp.bs",
   "setSelectedSceneTileX": "jp.bl",
