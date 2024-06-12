@@ -3,6 +3,6 @@
   "invokeMenuActionHookJunkValue": "3",
   "setXandYHook": "jy.wn",
   "setViewportWalkingFieldHook": "jy.bh",
-  "setSelectedSceneTileX": "jy.ek",
-  "setSelectedSceneTileY": "jy.zh"
+  "setSelectedSceneTileX": "jy.bg",
+  "setSelectedSceneTileY": "jy.bu"
 }
