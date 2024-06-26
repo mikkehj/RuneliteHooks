@@ -2,8 +2,8 @@
   "invokeMenuActionHook": "cj.lg",
   "invokeMenuActionHookJunkValue": "0",
   "setXandYHook": "jy.wn",
-  "setViewportWalkingFieldHook": "kq.bi",
-  "setCheckClick": "kq.bu",
-  "setSelectedSceneTileX": "kq.hf",
-  "setSelectedSceneTileY": "kq.ag"
+  "setViewportWalkingFieldHook": "kq.bu",
+  "setCheckClick": "kq.bi",
+  "setSelectedSceneTileX": "kq.bp",
+  "setSelectedSceneTileY": "kq.bx"
 }
