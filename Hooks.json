@@ -4,6 +4,6 @@
   "setXandYHook": "jy.wn",
   "setViewportWalkingFieldHook": "kq.bu",
   "setCheckClick": "kq.bi",
-  "setSelectedSceneTileX": "kq.bp",
-  "setSelectedSceneTileY": "kq.bx"
+  "setSelectedSceneTileX": "kq.ps",
+  "setSelectedSceneTileY": "kq.pg"
 }
