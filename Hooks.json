@@ -1,0 +1,9 @@
+{
+  "invokeMenuActionHook": "pb.ll",
+  "invokeMenuActionHookJunkValue": "-1259406248",
+  "setXandYHook": "jy.wn",
+  "setViewportWalkingFieldHook": "hf.ba",
+  "setCheckClick": "hf.br",
+  "setSelectedSceneTileX": "hf.bi",
+  "setSelectedSceneTileY": "hf.be"
+}
