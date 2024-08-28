@@ -5,5 +5,6 @@
   "setViewportWalkingFieldHook": "hf.ba",
   "setCheckClick": "hf.br",
   "setSelectedSceneTileX": "hf.bi",
-  "setSelectedSceneTileY": "hf.be"
+  "setSelectedSceneTileY": "hf.be",
+  "npcOverheadIcon": "jm.bw"
 }
