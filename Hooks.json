@@ -3,7 +3,7 @@
   "invokeMenuActionHookJunkValue": "1",
   "setViewportWalkingFieldHook": "jh.br",
   "setCheckClick": "jh.bb",
-  "setSelectedSceneTileX": "jh.nr",
-  "setSelectedSceneTileY": "jh.qs",
+  "setSelectedSceneTileX": "jh.us",
+  "setSelectedSceneTileY": "jh.rw",
   "npcOverheadIcon": "hn.ak"
 }
