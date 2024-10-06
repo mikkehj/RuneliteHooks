@@ -1,0 +1,53 @@
+{
+  "h":
+  [
+    {
+      "n": "invokeMenuAction",
+      "c": "qt",
+      "p": "mo",
+      "m": -886112733
+    },
+    {
+      "n": "setViewportWalking",
+      "c": "jh",
+      "p": "br",
+      "m": 1
+    },
+    {
+      "n": "setCheckClick",
+      "c": "jh",
+      "p": "bb",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileX",
+      "c": "jh",
+      "p": "bz",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "jh",
+      "p": "bu",
+      "m": 1
+    },
+    {
+      "n": "getNpcOverheadIcon",
+      "c": "hn",
+      "p": "bv",
+      "m": 1
+    },
+    {
+      "n": "isMoving",
+      "c": "dy",
+      "p": "ds",
+      "m": 166438615
+    },
+    {
+      "n": "getActorAnimationId",
+      "c": "dy",
+      "p": "cd",
+      "m": 1036457443
+    }
+    ]
+}
