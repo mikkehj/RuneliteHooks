@@ -1,0 +1,9 @@
+{
+  "invokeMenuActionHook": "kq.lh",
+  "invokeMenuActionHookJunkValue": "1",
+  "setCheckClick": "ji.bn",
+  "setViewportWalkingFieldHook": "ji.bi",
+  "setSelectedSceneTileX": "ji.ba",
+  "setSelectedSceneTileY": "ji.bw",
+  "npcOverheadIcon": "hn.ak"
+}
