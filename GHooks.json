@@ -33,21 +33,21 @@
     },
     {
       "n": "getNpcOverheadIcon",
-      "c": "hn",
-      "p": "bv",
+      "c": "hy",
+      "p": "ah",
       "m": 1
     },
     {
       "n": "isMoving",
-      "c": "dy",
-      "p": "ds",
-      "m": 166438615
+      "c": "dw",
+      "p": "by",
+      "m": -1746074449
     },
     {
       "n": "getActorAnimationId",
-      "c": "dy",
-      "p": "cd",
-      "m": 1036457443
+      "c": "dw",
+      "p": "ds",
+      "m": -1489920319
     }
     ]
 }
