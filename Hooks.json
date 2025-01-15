@@ -1,0 +1,9 @@
+{
+  "invokeMenuActionHook": "tu.lz",
+  "invokeMenuActionHookJunkValue": "-859020752",
+  "setCheckClick": "hj.bk",
+  "setViewportWalkingFieldHook": "hj.cn",
+  "setSelectedSceneTileX": "hj.bl",
+  "setSelectedSceneTileY": "hj.cb",
+  "npcOverheadIcon": "hn.ak"
+}
