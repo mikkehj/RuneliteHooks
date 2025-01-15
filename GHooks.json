@@ -3,32 +3,32 @@
   [
     {
       "n": "invokeMenuAction",
-      "c": "dq",
-      "p": "lj",
-      "m": 863069241
+      "c": "tu",
+      "p": "lz",
+      "m": -859020752
     },
     {
       "n": "setViewportWalking",
-      "c": "jp",
-      "p": "ct",
+      "c": "hj",
+      "p": "cn",
       "m": 1
     },
     {
       "n": "setCheckClick",
-      "c": "ji",
-      "p": "bq",
+      "c": "hj",
+      "p": "bk",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileX",
-      "c": "jp",
-      "p": "bc",
+      "c": "hj",
+      "p": "bl",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileY",
-      "c": "jp",
-      "p": "cc",
+      "c": "hj",
+      "p": "cb",
       "m": 1
     },
     {
