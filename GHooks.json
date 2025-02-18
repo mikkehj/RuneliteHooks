@@ -3,51 +3,39 @@
   [
     {
       "n": "invokeMenuAction",
-      "c": "tu",
-      "p": "lz",
-      "m": -859020752
+      "c": "in",
+      "p": "lw",
+      "m": 923421879
     },
     {
       "n": "setViewportWalking",
-      "c": "hj",
+      "c": "jz",
       "p": "cn",
       "m": 1
     },
     {
       "n": "setCheckClick",
-      "c": "hj",
-      "p": "bk",
+      "c": "jz",
+      "p": "br",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileX",
-      "c": "hj",
-      "p": "bl",
+      "c": "jz",
+      "p": "cs",
       "m": 1
     },
     {
       "n": "setSelectedSceneTileY",
-      "c": "hj",
-      "p": "cb",
-      "m": 1
-    },
-    {
-      "n": "getNpcOverheadIcon",
-      "c": "hy",
-      "p": "ah",
+      "c": "jz",
+      "p": "cj",
       "m": 1
     },
     {
       "n": "isMoving",
-      "c": "dw",
-      "p": "by",
-      "m": -1746074449
-    },
-    {
-      "n": "getActorAnimationId",
-      "c": "dw",
-      "p": "ds",
-      "m": -1489920319
+      "c": "df",
+      "p": "dm",
+      "m": -754790111
     }
     ]
 }
