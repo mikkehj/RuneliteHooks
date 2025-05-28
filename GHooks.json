@@ -10,13 +10,13 @@
     {
       "n": "setViewportWalking",
       "c": "ho",
-      "p": "bq",
+      "p": "cn",
       "m": 1
     },
     {
       "n": "setCheckClick",
       "c": "ho",
-      "p": "cn",
+      "p": "bq",
       "m": 1
     },
     {
