@@ -1,0 +1,41 @@
+{
+  "h":
+  [
+    {
+      "n": "invokeMenuAction",
+      "c": "pn",
+      "p": "lj",
+      "m": -1865588633
+    },
+    {
+      "n": "setViewportWalking",
+      "c": "jg",
+      "p": "cc",
+      "m": 1
+    },
+    {
+      "n": "setCheckClick",
+      "c": "jg",
+      "p": "bg",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileX",
+      "c": "jg",
+      "p": "bn",
+      "m": 1
+    },
+    {
+      "n": "setSelectedSceneTileY",
+      "c": "jg",
+      "p": "bc",
+      "m": 1
+    },
+    {
+      "n": "isMoving",
+      "c": "cn",
+      "p": "bn",
+      "m": -164506973
+    }
+    ]
+}
