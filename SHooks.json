@@ -4,7 +4,7 @@
   "invokeMenuActionHookJunkValue": "-1865588633",
   "setSelectedSceneTileY": "jg.bc",
   "isMoving": "cn.bn",
-  "setViewportWalking": "jg.cc",
+  "setViewportWalkingFieldHook": "jg.cc",
   "setSelectedSceneTileX": "jg.bn",
   "isMovingJunkValue": "-164506973"
 }
