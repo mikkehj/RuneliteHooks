@@ -10,13 +10,13 @@
     {
       "n": "setViewportWalking",
       "c": "jg",
-      "p": "bg",
+      "p": "cc",
       "m": 1
     },
     {
       "n": "setCheckClick",
       "c": "jg",
-      "p": "cc",
+      "p": "bg",
       "m": 1
     },
     {
