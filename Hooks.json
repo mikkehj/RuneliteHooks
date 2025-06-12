@@ -1,9 +1,0 @@
-{
-  "invokeMenuActionHook": "pn.lj",
-  "invokeMenuActionHookJunkValue": "-1865588633",
-  "setCheckClick": "jg.bg",
-  "setViewportWalkingFieldHook": "jg.cc",
-  "setSelectedSceneTileX": "jg.bn",
-  "setSelectedSceneTileY": "jg.bc",
-  "npcOverheadIcon": "cn.dk"
-}
