@@ -1,41 +1,38 @@
-{
-  "h":
-  [
-    {
-      "n": "invokeMenuAction",
-      "c": "pn",
-      "p": "lj",
-      "m": -1865588633
-    },
-    {
-      "n": "setViewportWalking",
-      "c": "jg",
-      "p": "cc",
-      "m": 1
-    },
-    {
-      "n": "setCheckClick",
-      "c": "jg",
-      "p": "bg",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileX",
-      "c": "jg",
-      "p": "bn",
-      "m": 1
-    },
-    {
-      "n": "setSelectedSceneTileY",
-      "c": "jg",
-      "p": "bc",
-      "m": 1
-    },
-    {
-      "n": "isMoving",
-      "c": "cn",
-      "p": "bn",
-      "m": -164506973
-    }
-    ]
-}
+{"h": [
+  {
+    "p": "lj",
+    "c": "pn",
+    "m": -1865588633,
+    "n": "invokeMenuAction"
+  },
+  {
+    "p": "bg",
+    "c": "jg",
+    "m": 1,
+    "n": "setCheckClick"
+  },
+  {
+    "p": "cc",
+    "c": "jg",
+    "m": 1,
+    "n": "setViewportWalking"
+  },
+  {
+    "p": "bn",
+    "c": "jg",
+    "m": 1,
+    "n": "setSelectedSceneTileX"
+  },
+  {
+    "p": "bc",
+    "c": "jg",
+    "m": 1,
+    "n": "setSelectedSceneTileY"
+  },
+  {
+    "p": "bn",
+    "c": "cn",
+    "m": -164506973,
+    "n": "isMoving"
+  }
+]}
