@@ -1,10 +1,10 @@
 {
-  "setCheckClick": "jg.bg",
+  "setCheckClick": "jg.cc",
   "invokeMenuActionHook": "pn.lj",
   "invokeMenuActionHookJunkValue": "-1865588633",
   "setSelectedSceneTileY": "jg.bc",
-  "isMoving": "cn.bn",
-  "setViewportWalkingFieldHook": "jg.cc",
+  "isMoving": "cn.dj",
+  "setViewportWalkingFieldHook": "jg.bg",
   "setSelectedSceneTileX": "jg.bn",
   "isMovingJunkValue": "-164506973"
 }
