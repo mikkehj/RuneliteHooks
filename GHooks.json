@@ -9,14 +9,14 @@
     }
     ,
     {
-      "p": "bg",
+      "p": "cc",
       "c": "jg",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
-      "p": "cc",
+      "p": "bg",
       "c": "jg",
       "m": 1,
       "n": "setViewportWalking"
@@ -37,7 +37,7 @@
     }
     ,
     {
-      "p": "bn",
+      "p": "dj",
       "c": "cn",
       "m": -164506973,
       "n": "isMoving"
