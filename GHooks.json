@@ -91,5 +91,12 @@
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
+    ,
+    {
+      "p": "df",
+      "c": "ca",
+      "m": 606175875,
+      "n": "isMoving"
+    }
   ]
 }
