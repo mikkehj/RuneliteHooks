@@ -1,8 +1,10 @@
 {
   "setCheckClick": "iy.co",
   "invokeMenuActionHook": "fy.lu",
-  "invokeMenuActionHookJunkValue": "-1208434706",
+  "invokeMenuActionHookJunkValue": "-1208434705",
   "setSelectedSceneTileY": "iy.yc",
+  "isMoving": "ca.df",
   "setViewportWalkingFieldHook": "iy.bg",
-  "setSelectedSceneTileX": "iy.bh"
+  "setSelectedSceneTileX": "iy.bh",
+  "isMovingJunkValue": "606175875"
 }
