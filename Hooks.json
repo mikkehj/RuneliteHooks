@@ -1,10 +1,10 @@
 {
-  "setCheckClick": "jg.cc",
-  "invokeMenuActionHook": "pn.lj",
-  "invokeMenuActionHookJunkValue": "-1865588633",
-  "setSelectedSceneTileY": "jg.bc",
-  "isMoving": "cn.dj",
-  "setViewportWalkingFieldHook": "jg.bg",
-  "setSelectedSceneTileX": "jg.bn",
-  "isMovingJunkValue": "-164506973"
+  "setCheckClick": "iy.co",
+  "invokeMenuActionHook": "fy.lu",
+  "invokeMenuActionHookJunkValue": "-1208434705",
+  "setSelectedSceneTileY": "iy.qu",
+  "isMoving": "ca.df",
+  "setViewportWalkingFieldHook": "iy.bg",
+  "setSelectedSceneTileX": "iy.bh",
+  "isMovingJunkValue": "606175875"
 }
