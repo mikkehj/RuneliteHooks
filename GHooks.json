@@ -2,100 +2,72 @@
   "h":
   [
     {
-      "p": "lu",
-      "c": "fy",
-      "m": -1208434706,
+      "p": "lj",
+      "c": "pn",
+      "m": -1865588633,
       "n": "invokeMenuAction"
     }
     ,
     {
       "p": "bg",
-      "c": "iy",
+      "c": "jg",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
-      "p": "co",
-      "c": "iy",
+      "p": "cc",
+      "c": "jg",
       "m": 1,
       "n": "setViewportWalking"
     }
     ,
     {
-      "p": "yc",
-      "c": "iy",
+      "p": "bn",
+      "c": "jg",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "bh",
-      "c": "iy",
+      "p": "bc",
+      "c": "jg",
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
     ,
     {
-      "p": "co",
-      "c": "iy",
-      "m": 1,
-      "n": "setCheckClick"
-    }
-    ,
-    {
-      "p": "bg",
-      "c": "iy",
-      "m": 1,
-      "n": "setViewportWalking"
-    }
-    ,
-    {
-      "p": "bh",
-      "c": "iy",
-      "m": 1,
-      "n": "setSelectedSceneTileX"
-    }
-    ,
-    {
-      "p": "yc",
-      "c": "iy",
-      "m": 1,
-      "n": "setSelectedSceneTileY"
-    }
-    ,
-    {
-      "p": "co",
-      "c": "iy",
+      "p": "cc",
+      "c": "jg",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
       "p": "bg",
-      "c": "iy",
+      "c": "jg",
       "m": 1,
       "n": "setViewportWalking"
     }
     ,
     {
-      "p": "bh",
-      "c": "iy",
+      "p": "bn",
+      "c": "jg",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "yc",
-      "c": "iy",
+      "p": "bc",
+      "c": "jg",
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
     ,
     {
-      "p": "df",
-      "c": "ca",
-      "m": 606175875,
+      "p": "dj",
+      "c": "cn",
+      "m": -164506973,
       "n": "isMoving"
     }
   ]
