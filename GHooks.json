@@ -4,19 +4,19 @@
     {
       "p": "lu",
       "c": "fy",
-      "m": -1208434706,
+      "m": -1208434705,
       "n": "invokeMenuAction"
     }
     ,
     {
-      "p": "co",
+      "p": "bg",
       "c": "iy",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
-      "p": "bg",
+      "p": "co",
       "c": "iy",
       "m": 1,
       "n": "setViewportWalking"
@@ -30,7 +30,7 @@
     }
     ,
     {
-      "p": "qu",
+      "p": "ba",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileY"
@@ -51,42 +51,14 @@
     }
     ,
     {
-      "p": "bh",
+      "p": "iu",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "qu",
-      "c": "iy",
-      "m": 1,
-      "n": "setSelectedSceneTileY"
-    }
-    ,
-    {
-      "p": "bg",
-      "c": "iy",
-      "m": 1,
-      "n": "setCheckClick"
-    }
-    ,
-    {
-      "p": "co",
-      "c": "iy",
-      "m": 1,
-      "n": "setViewportWalking"
-    }
-    ,
-    {
-      "p": "qu",
-      "c": "iy",
-      "m": 1,
-      "n": "setSelectedSceneTileX"
-    }
-    ,
-    {
-      "p": "bh",
+      "p": "iu",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileY"
@@ -107,14 +79,14 @@
     }
     ,
     {
-      "p": "bh",
+      "p": "ba",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "qu",
+      "p": "bh",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileY"
@@ -135,21 +107,21 @@
     }
     ,
     {
-      "p": "bh",
+      "p": "ba",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "qu",
+      "p": "bh",
       "c": "iy",
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
     ,
     {
-      "p": "df",
+      "p": "cu",
       "c": "ca",
       "m": 606175875,
       "n": "isMoving"
