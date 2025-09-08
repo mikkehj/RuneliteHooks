@@ -2,44 +2,121 @@
   "h":
   [
     {
-      "p": "lu",
-      "c": "fy",
-      "m": -1208434706,
-      "n": "invokeMenuAction"
-    }
-    ,
-    {
-      "p": "bg",
-      "c": "iy",
+      "p": "co",
+      "c": "it",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
+      "p": "bk",
+      "c": "it",
+      "m": 1,
+      "n": "setViewportWalking"
+    }
+    ,
+    {
+      "p": "be",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileX"
+    }
+    ,
+    {
+      "p": "bh",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileY"
+    }
+    ,
+    {
       "p": "co",
-      "c": "iy",
+      "c": "it",
+      "m": 1,
+      "n": "setCheckClick"
+    }
+    ,
+    {
+      "p": "bk",
+      "c": "it",
       "m": 1,
       "n": "setViewportWalking"
     }
     ,
     {
       "p": "bh",
-      "c": "iy",
+      "c": "it",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "ba",
-      "c": "iy",
+      "p": "be",
+      "c": "it",
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
     ,
     {
-      "p": "df",
-      "c": "ca",
-      "m": 606175875,
+      "p": "bk",
+      "c": "it",
+      "m": 1,
+      "n": "setCheckClick"
+    }
+    ,
+    {
+      "p": "co",
+      "c": "it",
+      "m": 1,
+      "n": "setViewportWalking"
+    }
+    ,
+    {
+      "p": "be",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileX"
+    }
+    ,
+    {
+      "p": "bh",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileY"
+    }
+    ,
+    {
+      "p": "co",
+      "c": "it",
+      "m": 1,
+      "n": "setCheckClick"
+    }
+    ,
+    {
+      "p": "bk",
+      "c": "it",
+      "m": 1,
+      "n": "setViewportWalking"
+    }
+    ,
+    {
+      "p": "be",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileX"
+    }
+    ,
+    {
+      "p": "bh",
+      "c": "it",
+      "m": 1,
+      "n": "setSelectedSceneTileY"
+    }
+    ,
+    {
+      "p": "dy",
+      "c": "ct",
+      "m": -986510815,
       "n": "isMoving"
     }
   ]
