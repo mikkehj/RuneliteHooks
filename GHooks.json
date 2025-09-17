@@ -9,14 +9,14 @@
     }
     ,
     {
-      "p": "co",
+      "p": "bk",
       "c": "it",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
-      "p": "bk",
+      "p": "co",
       "c": "it",
       "m": 1,
       "n": "setViewportWalking"
