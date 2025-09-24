@@ -1,0 +1,10 @@
+{
+  "setCheckClick": "it.bk",
+  "invokeMenuActionHook": "sd.ls",
+  "invokeMenuActionHookJunkValue": "437518482",
+  "setSelectedSceneTileY": "it.bh",
+  "isMoving": "ct.dy",
+  "setViewportWalkingFieldHook": "it.co",
+  "setSelectedSceneTileX": "it.be",
+  "isMovingJunkValue": "-986510815"
+}
