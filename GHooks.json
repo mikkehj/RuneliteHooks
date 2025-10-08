@@ -2,44 +2,44 @@
   "h":
   [
     {
-      "p": "ls",
-      "c": "sd",
-      "m": 437518482,
+      "p": "lo",
+      "c": "ax",
+      "m": -1139806752,
       "n": "invokeMenuAction"
     }
     ,
     {
-      "p": "bk",
-      "c": "it",
-      "m": 1,
-      "n": "setViewportWalking"
-    }
-    ,
-    {
-      "p": "co",
-      "c": "it",
+      "p": "bv",
+      "c": "ih",
       "m": 1,
       "n": "setCheckClick"
     }
     ,
     {
+      "p": "cc",
+      "c": "ih",
+      "m": 1,
+      "n": "setViewportWalking"
+    }
+    ,
+    {
       "p": "bh",
-      "c": "it",
+      "c": "ih",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "be",
-      "c": "it",
+      "p": "bc",
+      "c": "ih",
       "m": 1,
       "n": "setSelectedSceneTileY"
     }
     ,
     {
-      "p": "dy",
-      "c": "ct",
-      "m": -986510815,
+      "p": "dc",
+      "c": "cd",
+      "m": 683716923,
       "n": "isMoving"
     }
   ]
