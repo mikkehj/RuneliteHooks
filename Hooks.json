@@ -1,10 +1,10 @@
 {
-  "setCheckClick": "ih.bv",
+  "setCheckClick": "ih.cc",
   "invokeMenuActionHook": "ax.lo",
   "invokeMenuActionHookJunkValue": "-1139806752",
-  "setSelectedSceneTileY": "ih.wq",
+  "setSelectedSceneTileY": "ih.yj",
   "isMoving": "cd.dc",
-  "setViewportWalkingFieldHook": "ih.cc",
-  "setSelectedSceneTileX": "ih.pk",
+  "setViewportWalkingFieldHook": "ih.bv",
+  "setSelectedSceneTileX": "ih.bs",
   "isMovingJunkValue": "683716923"
 }
