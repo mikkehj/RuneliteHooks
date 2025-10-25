@@ -23,7 +23,7 @@
     }
     ,
     {
-      "p": "bh",
+      "p": "bs",
       "c": "ih",
       "m": 1,
       "n": "setSelectedSceneTileX"
