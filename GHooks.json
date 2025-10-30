@@ -4,7 +4,7 @@
     {
       "p": "lx",
       "c": "do",
-      "m": -32,
+      "m": 1759446066,
       "n": "invokeMenuAction"
     }
     ,
@@ -23,14 +23,14 @@
     }
     ,
     {
-      "p": "bw",
+      "p": "zm",
       "c": "jh",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "bf",
+      "p": "bp",
       "c": "jh",
       "m": 1,
       "n": "setSelectedSceneTileY"
