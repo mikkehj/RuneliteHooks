@@ -9,13 +9,6 @@
     }
     ,
     {
-      "p": "cw",
-      "c": "jh",
-      "m": 1,
-      "n": "setCheckClick"
-    }
-    ,
-    {
       "p": "bn",
       "c": "jh",
       "m": 1,
@@ -23,14 +16,21 @@
     }
     ,
     {
-      "p": "zm",
+      "p": "cw",
+      "c": "jh",
+      "m": 1,
+      "n": "setCheckClick"
+    }
+    ,
+    {
+      "p": "bw",
       "c": "jh",
       "m": 1,
       "n": "setSelectedSceneTileX"
     }
     ,
     {
-      "p": "bp",
+      "p": "bf",
       "c": "jh",
       "m": 1,
       "n": "setSelectedSceneTileY"
