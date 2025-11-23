@@ -9,17 +9,17 @@
     }
     ,
     {
-      "p": "bn",
-      "c": "jh",
-      "m": 1,
-      "n": "setViewportWalking"
-    }
-    ,
-    {
       "p": "cw",
       "c": "jh",
       "m": 1,
       "n": "setCheckClick"
+    }
+    ,
+    {
+      "p": "bn",
+      "c": "jh",
+      "m": 1,
+      "n": "setViewportWalking"
     }
     ,
     {
