@@ -1,7 +1,7 @@
 {
   "setCheckClick": "jh.cw",
   "invokeMenuActionHook": "do.lx",
-  "invokeMenuActionHookJunkValue": "1759446066",
+  "invokeMenuActionHookJunkValue": "-32",
   "setSelectedSceneTileY": "jh.bf",
   "isMoving": "cr.da",
   "setViewportWalkingFieldHook": "jh.bn",
